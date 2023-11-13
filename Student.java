@@ -3,4 +3,8 @@ public class Student {
 	public Student(){
 		totalstudents++;
     }
+
+	public String toString() {
+		return "Student []";
+	}
 }
