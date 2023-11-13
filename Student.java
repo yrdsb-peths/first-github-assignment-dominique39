@@ -1,5 +1,7 @@
 public class Student {
 	private static totalstudents;
+	private 
+	
 	public Student(){
 		totalstudents++;
     }
