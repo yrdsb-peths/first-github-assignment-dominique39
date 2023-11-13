@@ -8,6 +8,6 @@ public class Student {
     }
 
 	public String toString() {
-		return "Student []";
+		return "Student name = " + name;
 	}
 }
