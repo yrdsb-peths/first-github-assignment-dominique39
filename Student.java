@@ -1,6 +1,6 @@
 public class Student {
-	private static totalstudents;
-	private name;
+	private static int totalstudents;
+	private String name;
 
 	public Student(String name;){
 		totalstudents++;
